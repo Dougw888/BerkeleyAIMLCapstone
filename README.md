@@ -25,10 +25,8 @@ Next I will be expanding the modeling to enhance prediction accuracy and interpr
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
+- [Jupyter Notebook](https://github.com/Dougw888/BerkeleyAIMLCapstone/blob/main/Capstone_v2.ipynb)
+- [IPUMS Data](https://github.com/Dougw888/BerkeleyAIMLCapstone/blob/main/Data/ipumsi_00003.csv.gz)
 
 ##### Contact and Further Information
 Anyone interested in this project can reach out to me at dougwatts@berkeley.edu

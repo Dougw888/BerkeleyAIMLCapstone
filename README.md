@@ -21,12 +21,12 @@ In the initial findings, I am using simple decision trees to set a baseline accu
 My initial modeling had a test accuracy of 88% with a training accuracy of 88%. The model initially found that the most important factors were the kitchen type (e.g., indoor vs. outdoor kitchen), the presence of public services like trash collection and sewer, the presence of an indigenous language spoken at home, and income.
 
 #### Next steps
-Next I will be expanding the modeling to enhance prediction accuracy and interpretability. 
+Next I will be expanding the modeling to enhance prediction accuracy and interpretability. This means increasing granularity of indigenous speaker data, adding new data like presence of a vehicle or air conditioning, as well as population density (rural vs. urban).
 
 #### Outline of project
 
 - [Jupyter Notebook](https://github.com/Dougw888/BerkeleyAIMLCapstone/blob/main/Capstone_v2.ipynb)
 - [IPUMS Data](https://github.com/Dougw888/BerkeleyAIMLCapstone/blob/main/Data/ipumsi_00003.csv.gz)
-
+  
 ##### Contact and Further Information
 Anyone interested in this project can reach out to me at dougwatts@berkeley.edu
